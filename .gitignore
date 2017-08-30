@@ -12,3 +12,4 @@ share/
 .idea/
 pip-selfcheck.json
 pyvenv.cfg
+migrations/
