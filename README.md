@@ -8,5 +8,7 @@ We will be using the following technologies: python, nodejs, gruntjs, sass, git,
 
 Our development team is:
 Gabriel La Torre
+
 Ignacio Oyarzabal
+
 Xavier Oyarzabal
