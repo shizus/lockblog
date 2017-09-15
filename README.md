@@ -7,6 +7,7 @@ It is a collaboration among people who wish to learn certain programming technol
 We will be using the following technologies: python, nodejs, gruntjs, sass, git, django, cucumber, docker and a few api's, including the api of google, facebook, twitter, paypal, stripe and google drive.
 
 Our development team is:
+
 Gabriel La Torre
 
 Ignacio Oyarzabal
