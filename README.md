@@ -4,7 +4,9 @@ The idea is to develop a platform which will allow users to upload and store sen
 the event that the user is being pressured to delete the material or if the user has been left unable to publish it.
 It is a collaboration among people who wish to learn certain programming technologies while solving a real-world problem.
 
-We will be using the following technologies: python, nodejs, gruntjs, sass, git, django, cucumber, and a few api's, including
-the api of google, facebook, twitter, paypal, stripe and google drive.
+We will be using the following technologies: python, nodejs, gruntjs, sass, git, django, cucumber, docker and a few api's, including the api of google, facebook, twitter, paypal, stripe and google drive.
 
 Our development team is:
+Gabriel La Torre
+Ignacio Oyarzabal
+Xavier Oyarzabal
